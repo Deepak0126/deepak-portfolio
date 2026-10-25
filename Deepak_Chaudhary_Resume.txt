@@ -1,0 +1,52 @@
+DEEPAK CHAUDHARY
+SAS Consultant | Financial Crime Technology
+
+Phone: +91 72288 80050 / 73834 04159
+Email: chaudharydeepak0126@gmail.com
+LinkedIn: https://www.linkedin.com/in/deepak-chaudhary-52654b151/
+Location: India
+
+PROFESSIONAL SUMMARY
+SAS professional with 8.8 years of experience and 6+ years in financial crime technology, specializing in SAS Anti-Money Laundering (AML), Sanctions Screening, and Visual Analytics on SAS Viya. Product-level knowledge of SAS AML architecture, sanctions screening, scenario configuration, alert lifecycle management, SAS Visual Investigator workflows and reporting. Experienced in end-to-end implementations for banking and government clients across UAE, Egypt, South Africa and India.
+
+CORE SKILLS
+SAS AML on Viya; SAS Viya 3.5; SAS 9.4 and CAS; Base SAS; SAS SQL; SAS Macro Language; Sanctions Screening; Transaction Monitoring; SAS Visual Investigator; SAS Visual Analytics; Oracle; PostgreSQL; MySQL; ETL design and automation; SAS Studio; SAS Enterprise Guide; Linux and Shell Scripting; data mapping and validation.
+
+PROFESSIONAL EXPERIENCE
+Associate Technical Consultant | Accord Business Group (Authorized SAS Partner – UAE) | January 2021 – Present
+- Mapped core banking data across customers, accounts, transactions and parties for AML implementation.
+- Configured and tuned out-of-the-box AML scenarios using historical transaction data to reduce false positives.
+- Managed CAS data loading and batch monitoring processes.
+- Designed SAS Visual Investigator alert investigation workflows, evidence panels, disposition logic and audit tracking.
+- Implemented Name, Payment, Bulk and Manual Sanctions Screening modules and connected real-time and batch alert pipelines to Visual Investigator.
+- Supported SIT/UAT, issue resolution, production rollout and knowledge transfer.
+- Prepared BRDs, technical design documents and end-user training manuals.
+- Contributed to SAS Visual Investigator and fraud analytics deployments across UAE, Egypt and South Africa.
+
+SAS Developer | Nupeak IT Solutions | December 2018 – January 2021
+- Designed and developed ETL pipelines using SAS Enterprise Guide and Base SAS.
+- Built SAS Visual Analytics dashboards with geo-maps, KPI indicators, trend analysis charts and executive scorecards.
+- Scheduled and monitored SAS Data Integration jobs and supported platform maintenance.
+- Developed reporting and analytics for financial investigation, tax analytics, municipal revenue tracking and utility data management.
+
+SAS Intern | Epoch Technology & Consulting Services | April 2018 – November 2018
+- Supported data extraction, cleaning and reporting; developed foundational skills in Base SAS, SAS Studio and SQL.
+
+SELECTED PROJECTS
+- Al Rostamani International Exchange (UAE): AML, sanctions screening and case management.
+- Agricultural Bank of Egypt: AML, Visual Investigator and reporting.
+- Fidelity Bank (South Africa): Fraud, risk analytics and AML.
+- BankNXT (Egypt): AML, sanctions and transaction monitoring.
+- Additional engagements: WAFA Bank, EBank, LH Bank, Qatar National Bank, National Bank of Bahrain and MTN.
+
+EDUCATION
+MBA – Data Science | Manipal University, Jaipur | 2024
+Bachelor of Commerce | Gujarat University | 2017
+
+CERTIFICATIONS
+SAS Certified Base Programmer for SAS 9; Building an Interface with SAS Visual Investigator; SAS Visual Investigator: Analysis and Investigation; SAS Platform Administration: Getting Started; SAS Macro Language 1; SAS SQL 1; SAS Programming 1.
+
+PUBLISHED WORK
+Introduction to SAS Visual Investigator: http://www.nupeak.in/introduction-to-sas-visual-investigator/
+
+Languages: English, Hindi, Gujarati
